@@ -1,0 +1,4 @@
+build-job:
+  stage: build-job
+  script: 
+    - echo "this is working"
